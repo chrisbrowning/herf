@@ -3,6 +3,8 @@ import urllib
 import csv
 import re
 
+aaaa
+
 titles = [['Body:=','body'],['Size:','size'],['Ring Gauge:','size'],
         ['Length:','length'],['Filler:','filler'],['Binder:','binder'],
         ['Wrapper:','wrapper'],['Issue:','issue'],['Price:','price']]
